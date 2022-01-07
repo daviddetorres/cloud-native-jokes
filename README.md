@@ -3,8 +3,8 @@ Have you ever been in a meet-up or a networking event with other devs and didn't
 
 # Jokes
 ```
-- What's the best music to listen while releasing a new verision of your app? 
-+ Rock and Rollout
+- What's the best music to listen while releasing a new version of your app? 
++ Rock & Roll-out
 ```
 
 
