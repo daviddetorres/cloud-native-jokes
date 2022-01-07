@@ -1,5 +1,5 @@
 # Cloud Native Jokes
-Have you ever been in a meet-up or a networking event with other devs and didn't know how to start a converstaion? Here are some jokes to break the ice and have some fun!
+Have you ever been in a meet-up or a networking event with other devs and didn't know how to start a conversation? Here are some jokes to break the ice and have some fun!
 
 # Jokes
 ```
