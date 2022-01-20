@@ -6,7 +6,13 @@ Have you ever been in a meet-up or a networking event with other devs and didn't
 - What's the best music to listen while releasing a new version of your app? 
 + Rock & Roll-out
 ```
-
+```
+- What's the first thing a host does after joining a Kubernetes cluster?
++ It nodes
+```
+```
+- Kubernetes control plane is about API server and etc...
+```
 
 
 # Contributing
