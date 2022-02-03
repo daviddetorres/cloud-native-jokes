@@ -13,6 +13,10 @@ Have you ever been in a meet-up or a networking event with other devs and didn't
 ```
 - Kubernetes control plane is about API server and etc...
 ```
+```
+- What is the easiest way to get a cat in a container?
++ sudo cat
+```
 
 
 # Contributing
