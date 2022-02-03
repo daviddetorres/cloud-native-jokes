@@ -17,7 +17,10 @@ Have you ever been in a meet-up or a networking event with other devs and didn't
 - What is the easiest way to get a cat in a container?
 + sudo cat
 ```
-
+```
+- What did the host said?
++ Welcome to my $HOME!
+```
 
 # Contributing
 Do you have a joke that you want to share? Make a PR! But first, have a look to [our code of conduct](CONTRIBUTING.md).
