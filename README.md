@@ -25,8 +25,8 @@ Have you ever been in a meet-up or a networking event with other devs and didn't
 - Knock, knock!
 + Who is it?
 - CrashLoopBackOff
-- What CrashLoopB...
-+ Knock, Knock!
++ What CrashLoopB...
+- Knock, Knock!
 ```
 
 # Contributing
