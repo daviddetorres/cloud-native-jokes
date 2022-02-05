@@ -28,7 +28,9 @@ Have you ever been in a meet-up or a networking event with other devs and didn't
 + What CrashLoopB...
 - Knock, Knock!
 ```
-
+```
+They call it 'Outage' because 'We are having issues with our DNS' was too long.
+```
 # Contributing
 Do you have a joke that you want to share? Make a PR! But first, have a look to [our code of conduct](CONTRIBUTING.md).
 
